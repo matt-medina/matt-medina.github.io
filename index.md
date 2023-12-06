@@ -18,4 +18,4 @@ My Github page is http://github.com/matt-medina
 
 * Lab 11
 
-    One last lab that I really enjoyed working on is lab 11 part-2. I enjoyed lab 11 because I found it very interesting how you can use the classes in your function. I also enjoyed it because it made me learn about how to use the class corectly. 
+    One last lab that I really enjoyed working on is lab 11 part-2. I enjoyed lab 11 because I found it very interesting how you can use the classes in your function. I also enjoyed it because it made me learn about how to use the class corectly.
